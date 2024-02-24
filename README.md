@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm crocosnipe</h1>
 <h3 align="center">A young & passionate hobby fullstack developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crocosnipe&label=Profile%20views&color=0e75b6&style=flat" alt="crocosnipe" /> </p>
-
 - 🔭 I’m currently working on **EzPasswordGenerator**
 
 - 🌱 I’m currently learning **React.js and FastAPI**
@@ -16,4 +14,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crocosnipe&show_icons=true&locale=en" alt="crocosnipe" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/crocosnipe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="crocosnipe" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/crocosnipe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="crocosnipe" /></a></p> <br><br>
