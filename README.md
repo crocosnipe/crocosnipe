@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm crocosnipe</h1>
 <h3 align="center">A young & passionate hobby fullstack developer from Germany</h3>
 
-- 🔭 I’m currently working on **EzPasswordGenerator & WelcomeRolesDiscordBot**
+- 🔭 I’m currently working on **EzTasklist**
 
 - 🌱 I’m currently learning **React.js and FastAPI**
 
